@@ -5,7 +5,7 @@ import CalendarApp from "./CalendarApp";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <React.StrictMode>
-    <CalendarApp />
-  </React.StrictMode>
+  // <React.StrictMode>
+  <CalendarApp />
+  // </React.StrictMode>
 );
